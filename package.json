@@ -1,7 +1,7 @@
 {
   "name": "rap-horn",
   "main": "./lib/rap-horn",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Often life gives you situations where rap air horns are required. Press F1 during those situations.",
   "keywords": [
     "rap-horn",
